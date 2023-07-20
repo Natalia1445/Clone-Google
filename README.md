@@ -15,3 +15,5 @@ Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo div
 
 ## Objetivos 🚀
 // Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades.
+![image](https://github.com/Natalia1445/Clone-Google/assets/90107255/efbf5609-d0c1-42de-9e0f-40ade85d7b87)
+
